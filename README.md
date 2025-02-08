@@ -1,26 +1,43 @@
-# [Project Name] 🎯
+# Medicine Reminder 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Hacktivate
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Fathima Mehar P S - SCMS School of Engineering and Technology
+- Member 2: Fidha V S - SCMS School of Engineering and Technology
+
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+The Digital Medicine Reminder is a simple yet effective application that helps users manage their medication schedules. It ensures users never miss a dose by providing timely notifications and sound alerts.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Many people forget to take their medicines on time, leading to missed doses, ineffective treatment, and potential health risks. Managing multiple medications can be challenging, especially for the elderly, chronically ill patients, and busy individuals.
+
+Existing issues include:
+❌ Forgetting medication schedules
+❌ Lack of timely reminders
+❌ Difficulty tracking past medication intake
+❌ No centralized system to manage multiple reminders
+
+The Digital Medicine Reminder solves this by providing automated alerts, sound notifications, and an easy-to-use interface to ensure users never miss a dose again! 🚀
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+orgetful about your meds? No worries! The Digital Medicine Reminder is like a personal butler for your pills, making sure you never miss a dose again.
+
+Here’s how it works:
+✅ You set a reminder – Just enter your medicine name and time.
+✅ We handle the rest – The system schedules it, saves it, and stays on top of things.
+✅ Right on time! – When it’s time to take your meds, you get a pop-up notification and a gentle (or loud) alert sound.
+✅ Missed a dose? – Check your past reminders in the log.
+✅ Need a change? – Edit or delete reminders anytime with ease.
+
+No more sticky notes. No more forgotten pills. Just set it, forget it, and stay healthy! 💊🔔😊
 
 ## Technical Details
 ### Technologies/Components Used
