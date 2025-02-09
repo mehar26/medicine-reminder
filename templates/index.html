@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Medicine Reminder</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Digital Medicine Reminder</h1>
+        <div class="form-section">
+            <form id="reminderForm">
+                <div class="form-group">
+                    <label for="medicine">Medicine Name:</label>
+                    <input type="text" id="medicine" name="medicine" placeholder="Enter medicine name" required>
+                </div>
+                <div class="form-group">
+                    <label for="time">Reminder Time:</label>
+                    <input type="time" id="time" name="time" required>
+                </div>
+                <button type="submit">Set Reminder</button>
+            </form>
+            <div id="notification"></div>
+        </div>
+
+        <div class="search-section">
+            <h2>Search Reminders</h2>
+            <input type="text" id="searchInput" placeholder="Search by medicine name">
+            <button onclick="searchReminders()">Search</button>
+        </div>
+
+        <div class="reminder-list">
+            <h2>Active Reminders</h2>
+            <div id="remindersList"></div>
+        </div>
+    </div>
+    
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
