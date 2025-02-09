@@ -1,4 +1,4 @@
-// Load reminders on page load
+ // Load reminders on page load
 function loadReminders(searchQuery = '') {
     fetch(`/get_reminders${searchQuery ? '?search=' + searchQuery : ''}`)
         .then(response => response.json())
