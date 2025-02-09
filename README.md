@@ -11,7 +11,7 @@
 
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://medicine-reminder-kk6i.onrender.com/
 
 ### Project Description
 The Digital Medicine Reminder is a simple yet effective application that helps users manage their medication schedules. It ensures users never miss a dose by providing timely notifications and sound alerts.
