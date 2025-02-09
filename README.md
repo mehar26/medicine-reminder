@@ -60,7 +60,8 @@ Frameworks & Libraries Used :
     Vanilla JavaScript → To handle form submission and fetch requests
     CSS → For styling and UI design
     
-  Tools Used :
+  Tools Used :![Screenshot 2025-02-09 044351](https://github.com/user-attachments/assets/16016135-1e3d-4749-91f4-cb9cf694b3de)
+
     Code Editor: Visual Studio Code
     Package Manager: pip (for Python package management)
     Environment Management: venv (Virtual Environment)
@@ -113,15 +114,13 @@ For Software:
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+This video explains that we ca add multiple medicine names and its particular reminder time.When we click the 'Set Reminder' button  
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Fidha V S: Frontend Developing
+- Fathima Mehar P S: Backend Developing
+
 
 ---
 Made with ❤️ at TinkerHub
