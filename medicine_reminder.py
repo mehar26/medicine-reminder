@@ -59,4 +59,4 @@ def delete_reminder(reminder_id):
     return jsonify({"status": "success", "message": "Reminder deleted successfully"})
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5001)  # Use port 5001 to avoid conflicts
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)), debug=True)
