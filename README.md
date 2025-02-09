@@ -1,4 +1,4 @@
-# Medicine Reminder 🎯
+# Medicine Reminder 
 
 
 ## Basic Details
@@ -60,8 +60,7 @@ Frameworks & Libraries Used :
     Vanilla JavaScript → To handle form submission and fetch requests
     CSS → For styling and UI design
     
-  Tools Used :![Screenshot 2025-02-09 044351](https://github.com/user-attachments/assets/16016135-1e3d-4749-91f4-cb9cf694b3de)
-
+  Tools Used :
     Code Editor: Visual Studio Code
     Package Manager: pip (for Python package management)
     Environment Management: venv (Virtual Environment)
@@ -96,25 +95,27 @@ Follow these steps to set up the project on your system:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+![WhatsApp Image 2025-02-09 at 09 17 09_75c20ddb](https://github.com/user-attachments/assets/88afcece-4d98-4376-be6b-7953db2077f9)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-02-09 at 09 17 09_c176f698](https://github.com/user-attachments/assets/c0377f5a-035a-43ce-8b16-26bffb66343a)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-02-09 at 09 17 11_013ee215](https://github.com/user-attachments/assets/4bbf5739-587a-4483-80d8-651f3e98a49a)
+
+![WhatsApp Image 2025-02-09 at 09 17 11_4d468201](https://github.com/user-attachments/assets/f06e22bd-eef7-4e1b-bc79-62daf71ce862)
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
+![WhatsApp Image 2025-02-09 at 09 41 22_e3db50d9](https://github.com/user-attachments/assets/a9e046ea-ceea-4dee-a151-429c7ac06fc6)
+
+The Digital Medicine Reminder architecture consists of a frontend interface with input forms for medicine name and time settings, along with search functionality and an active reminders display section. The system follows a straightforward web-based structure where users can set medication reminders, search existing ones, and view all active reminders in a single interface.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-This video explains that we ca add multiple medicine names and its particular reminder time.When we click the 'Set Reminder' button  
+
+https://github.com/user-attachments/assets/7b7cc20e-6124-4ad6-b196-5c4b3e96bf62
+
+This video explains that we can add multiple medicine names and its particular reminder time.When we click the 'Set Reminder' button  it automatically reminds the medicine name at the corresponding time. We can also delete the reminder successfully according to our choice by clicking 'Delete' button.Basically,it's a digital medicine reminder interface on a laptop screen,for a medicine name and reminder time,along with search and active reminder sections.
 
 
 ## Team Contributions
