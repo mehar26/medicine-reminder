@@ -98,7 +98,7 @@ For Software:
 # Screenshots 
 ![WhatsApp Image 2025-02-09 at 09 17 09_75c20ddb](https://github.com/user-attachments/assets/88afcece-4d98-4376-be6b-7953db2077f9)
 
-![WhatsApp Image 2025-02-09 at 09 17 09_c176f698](https://github.com/user-attachments/assets/c0377f5a-035a-43ce-8b16-26bffb66343a)
+![WhatsApp Image 2025-02-09 at 09 47 03_00171d3f](https://github.com/user-attachments/assets/2a2312ee-666f-4a89-9ef9-3476dace7568)
 
 ![WhatsApp Image 2025-02-09 at 09 17 11_013ee215](https://github.com/user-attachments/assets/4bbf5739-587a-4483-80d8-651f3e98a49a)
 
