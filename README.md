@@ -98,11 +98,19 @@ For Software:
 # Screenshots 
 ![WhatsApp Image 2025-02-09 at 09 17 09_75c20ddb](https://github.com/user-attachments/assets/88afcece-4d98-4376-be6b-7953db2077f9)
 
+A digital interface for setting and managing medicine reminders, featuring input fields for medicine name and reminder time, along with search and active reminder display functionalities.
+
 ![WhatsApp Image 2025-02-09 at 09 47 03_00171d3f](https://github.com/user-attachments/assets/2a2312ee-666f-4a89-9ef9-3476dace7568)
+
+A digital interface for managing medicine reminders, showing a successful reminder set message and the ability to search and view active reminders.
 
 ![WhatsApp Image 2025-02-09 at 09 17 11_013ee215](https://github.com/user-attachments/assets/4bbf5739-587a-4483-80d8-651f3e98a49a)
 
+A digital medicine reminder interface with a focus on setting reminders, featuring input fields for medicine name and time, along with search and active reminder display sections.
+
 ![WhatsApp Image 2025-02-09 at 09 17 11_4d468201](https://github.com/user-attachments/assets/f06e22bd-eef7-4e1b-bc79-62daf71ce862)
+
+A digital medicine reminder interface on a laptop screen, showing a "Reminder deleted successfully" message and highlighting the active reminder section.
 
 # Diagrams
 
